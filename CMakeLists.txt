@@ -25,4 +25,3 @@ execute_process(
 
 add_definitions("-DGIT_COMMIT_HASH=${GIT_COMMIT_HASH}")
 add_definitions("-DGIT_DIFF_SHORTSTAT=${GIT_DIFF_SHORTSTAT}")
-

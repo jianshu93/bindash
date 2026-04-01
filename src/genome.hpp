@@ -19,6 +19,7 @@
 
 // #include "libpopcnt-2.2/libpopcnt.h" // the libpopcnt code that is used in this file is copied into this file
 
+#include <cstdint>
 #include <fstream>
 #include <iomanip>
 #include <iostream>
