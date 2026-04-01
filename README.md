@@ -158,7 +158,7 @@ Rust implementation can be found [here](https://github.com/jianshu93/bindash-rs)
 
 All suggestions, comments, and feature requests are welcome.
 
-Author: XiaoFei Zhao (cndfeifei AT hotmail DOT com)  and Jianshu Zhao (jianshuzhao AT yahoo DOT com)
+Author: XiaoFei Zhao (cndfeifei AT aliyun DOT com)  and Jianshu Zhao (jianshuzhao AT yahoo DOT com)
 License: Apache 2.0
 
 # Reference
